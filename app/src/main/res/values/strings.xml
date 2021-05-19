@@ -1,13 +1,23 @@
 <resources>
     <string name="app_name">Decks of KeyForge Utilities</string>
+    <string name="import_deck">Importing to DoK</string>
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
     <string name="action_sign_in">Sign in</string>
+    <string name="action_retry">Retry</string>
+    <string name="login_info">Use your username and password from Decks of KeyForge to login to this app.</string>
     <string name="app_description">
         Because you\'re logged in, you can use the share button in Master Vault after scanning in a deck to import that deck to
         your decks on Decks of KeyForge.
     </string>
+    <string name="adding_deck">
+        You will be redirected to the deck page when the deck is imported and added to your collection.
+    </string>
+    <string name="error_adding_deck">
+        We were unable to add this deck. Please try again later.
+    </string>
+    <string name="logging_in">Logging in</string>
     <string name="action_sign_in_short">Sign in</string>
     <string name="action_logout">Logout</string>
     <string name="welcome">"Welcome!"</string>
