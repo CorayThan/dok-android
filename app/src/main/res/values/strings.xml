@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Decks of KeyForge Utilities</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="app_description">
+        Because you\'re logged in, you can use the share button in Master Vault after scanning in a deck to import that deck to
+        your decks on Decks of KeyForge.
+    </string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_logout">Logout</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
